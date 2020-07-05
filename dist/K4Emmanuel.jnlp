@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="K4Emmanuel.jnlp">
+  <information>
+    <title>K4Emmanuel</title>
+    <vendor>GAMING PC</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="K4Emmanuel.jar" size="62465" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="K4Emmanuel" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="k4emmanuel.K4Emmanuel"  name="K4Emmanuel" />
+  <update check="always"/>
+</jnlp>
