@@ -16,7 +16,7 @@ Interactive contact book 📖 with options to import ⬇️ and export ⬆️ to
 
 ## **General info**
 
-**Date**: April, 2019  
+**Date**: April, 2019.  
 **Duration**: 1 Month.
 
 It was a deliverable practice of creating a contact book with **Java** and **JavaFx**, but I wanted to go further and made it similar to what the "Contacts" phone application is. With all the options that this implies, add, edit, delete and search for contacts. It also allows adding images and the possibility of importing and exporting to plain text, binary and XML the entire agenda.
@@ -36,7 +36,7 @@ It was a deliverable practice of creating a contact book with **Java** and **Jav
 
 ## **Setup**
 
-You can test it downloading the **Jar** or follow the next steps to download the repository and import the project.
+You can test it downloading the [**Jar**](https://github.com/udsgit/contacts/raw/master/dist/K4Emmanuel.jar) or follow the next steps to download the repository and import the project.
 
 1. Clone or download the repository.
 
@@ -49,7 +49,7 @@ git clone https://github.com/udsgit/contacts.git
 
 ## **Usage**
 
-1. Just download and install the [**Jar**](./apk/tic-tac-toe.apk) or if you have cloned it, you can run it from the same IDE when compiling it.
+1. Just download and install the [**Jar**](https://github.com/udsgit/contacts/raw/master/dist/K4Emmanuel.jar) or if you have cloned it, you can run it from the same IDE when compiling it.
 2. When you run it, the initial menu will appear with the options to add a new contact or import and export agendas.
 3. When you add a contact, you can optionally change the image by clicking on it and choosing the one you want from your computer or you can use the test images that we include in the repository within "src/resources/people".
 4. After you add several contacts, you can make a backup by choosing in which format you want to export it.
