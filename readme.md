@@ -7,6 +7,7 @@ Interactive contact book 📖 with options to import ⬇️ and export ⬆️ to
 - [**Contacts**](#contacts)
   - [**Table of contents**](#table-of-contents)
   - [**General info**](#general-info)
+  - [**Demo**](#demo)
   - [**Screenshots**](#screenshots)
   - [**Technologies**](#technologies)
   - [**Setup**](#setup)
@@ -21,13 +22,16 @@ Interactive contact book 📖 with options to import ⬇️ and export ⬆️ to
 
 It was a deliverable practice of creating a contact book with **Java** and **JavaFx**, but I wanted to go further and made it similar to what the "Contacts" phone application is. With all the options that this implies, add, edit, delete and search for contacts. It also allows adding images and the possibility of importing and exporting to plain text, binary and XML the entire agenda.
 
+## **Demo**
+
+You can try it downloading the [**Jar**](https://github.com/udsgit/contacts/raw/master/dist/K4Emmanuel.jar).
+
+> <img src="images/demo.gif"/><br><i>Demo</i>
+
 ## **Screenshots**
 
-> ![Screenshot](images/contacts.png)  
-> _Agenda with 6 contacts created._
-
-> ![Screenshot](images/contact-example.png)  
-> _Example when opening a contact_
+> <img src="images/contacts.png" height="150"/>
+> <img src="images/contact-example.png" height="150"/><br><i>Example of agenda with 6 contacts and when entering one of them.</i>
 
 ## **Technologies**
 
@@ -35,8 +39,6 @@ It was a deliverable practice of creating a contact book with **Java** and **Jav
 - **Java Fx**
 
 ## **Setup**
-
-You can test it downloading the [**Jar**](https://github.com/udsgit/contacts/raw/master/dist/K4Emmanuel.jar) or follow the next steps to download the repository and import the project.
 
 1. Clone or download the repository.
 
